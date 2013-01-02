@@ -3,7 +3,7 @@ alias tssh='tsocks ssh'
 alias tscp='tsocks scp'
 
 alias ..='cd ..'
-alias be ='bundle exec'
+alias be='bundle exec'
 
 alias mci='mvn clean install'
 alias mi='mvn install'
